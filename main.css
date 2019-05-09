@@ -1,0 +1,11 @@
+body {
+
+  display:grid;
+  grid-template-columns: 200% 200% / 100% 100%;
+  }
+
+  .row {
+    height: 800;
+    width: 600;
+    display: grid;
+  }
